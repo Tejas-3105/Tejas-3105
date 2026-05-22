@@ -1,6 +1,4 @@
 - 👋 Hello, I'm **Tejas Thind**, a **Management Engineering** student at the **University of Waterloo**.
-- :computer: I'm currently building an app to help give interns everything they need to land their dream internship.
-- 🚀 I'm also interested in building full-stack projects that use machine learning in ways that are actually useful and make a difference for real users. Right now, through the Industry 4.0 design team at the University of Waterloo, I'm leading the early stages of a project that will serve as an internal tool for student clubs.  
 - 📫 For any inquiries, feel free to contact me at t3thind@uwaterloo.ca!
 
 <!---
