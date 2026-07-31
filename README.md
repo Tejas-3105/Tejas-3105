@@ -1,4 +1,4 @@
-- 👋 Hello, I'm **Tejas Thind**, a **Management Engineering** student at the **University of Waterloo**.
+- Hey, I'm **Tejas Thind**, a **Management Engineering** student at the **University of Waterloo**.
 - 📫 For any inquiries, feel free to contact me at t3thind@uwaterloo.ca!
 
 <!---
